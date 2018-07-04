@@ -1,4 +1,4 @@
-package br.com.sinapsisenergia.security.pbkdf2;
+package br.com.leonardo.security.pbkdf2;
 
 import java.math.BigInteger;
 import java.security.NoSuchAlgorithmException;

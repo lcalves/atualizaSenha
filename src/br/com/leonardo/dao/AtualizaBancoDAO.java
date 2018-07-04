@@ -1,4 +1,4 @@
-package com.sinapsisenergia.dao;
+package br.com.leonardo.dao;
 
 import java.io.IOException;
 import java.security.NoSuchAlgorithmException;
@@ -10,9 +10,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.sinapsisenergia.to.Password;
-
-import br.com.sinapsisenergia.security.pbkdf2.PasswordEncryptor;
+import br.com.leonardo.security.pbkdf2.PasswordEncryptor;
+import br.com.leonardo.to.Password;
 
 public class AtualizaBancoDAO {
 

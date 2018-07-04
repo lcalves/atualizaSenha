@@ -1,4 +1,4 @@
-package com.sinapsisenergia.dao;
+package br.com.leonardo.dao;
 
 import java.io.IOException;
 import java.sql.Connection;

@@ -1,4 +1,4 @@
-package com.sinapsisenergia.main;
+package br.com.leonardo.main;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -9,9 +9,9 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.List;
 
-import com.sinapsisenergia.dao.AtualizaBancoDAO;
-import com.sinapsisenergia.dao.ConnectionManager;
-import com.sinapsisenergia.to.Password;
+import br.com.leonardo.dao.AtualizaBancoDAO;
+import br.com.leonardo.dao.ConnectionManager;
+import br.com.leonardo.to.Password;
 
 public class Console {
 
